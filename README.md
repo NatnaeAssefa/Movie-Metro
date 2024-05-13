@@ -28,10 +28,10 @@ To get a local copy up and running follow these simple steps.
 ### Setup
 
 - With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Movie-Metro/archive/refs/heads/develop.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- [Download the ZIP file from this location](https://github.com/NatnaeAssefa/Movie-Metro/archive/refs/heads/master.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Movie-Metro.git
+git clone https://github.com/NatnaeAssefa/Movie-Metro.git
 ```
 
 - Once the files are on your machine, open the **Micro-Space-Hub** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -68,11 +68,11 @@ This will run the unit tests.
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Natnael Assefa**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@NatnaelAssefa](https://github.com/NatnaeAssefa)
+- X formerly (Twitter): [@NatnaelAssefa](https://x.com/Natnael_Assefa7?t=uq9rQxhSlyZlaVgA0UDs6w&s=35)
+- LinkedIn: [Natnael Assefa](https://linkedin.com/in/natnael-assefa-6a98081ab)
 
 ## 🤝 Contributing
 
@@ -82,7 +82,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Redux ToolKit Team
